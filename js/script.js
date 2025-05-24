@@ -33,3 +33,4 @@ function reset() {
     document.getElementById("fahrenheit").value = "";
     document.getElementById("calculation").value = "";
 }
+
